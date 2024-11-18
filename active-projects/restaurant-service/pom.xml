@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.maqs</groupId>
-	<artifactId>restaurantlisting</artifactId>
+	<artifactId>restaurant-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>restaurantlisting</name>
+	<name>restaurant-service</name>
 	<description>Eureka Server Project</description>
 	<url />
 	<licenses>
